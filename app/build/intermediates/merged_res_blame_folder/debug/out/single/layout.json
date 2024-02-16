@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.bkash_tokenized_android_kotlin.app-mergeDebugResources-46:/layout/bottom_sheet_dialog.xml",
+        "source": "com.example.bkash_tokenized_android_kotlin.app-main-49:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.example.bkash_tokenized_android_kotlin.app-mergeDebugResources-46:/layout/fragment_web_view.xml",
+        "source": "com.example.bkash_tokenized_android_kotlin.app-main-49:/layout/fragment_web_view.xml"
+    },
+    {
+        "merged": "com.example.bkash_tokenized_android_kotlin.app-mergeDebugResources-46:/layout/fragment_search.xml",
+        "source": "com.example.bkash_tokenized_android_kotlin.app-main-49:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.bkash_tokenized_android_kotlin.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.bkash_tokenized_android_kotlin.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bkash_tokenized_android_kotlin.app-mergeDebugResources-46:/layout/fragment_home.xml",
+        "source": "com.example.bkash_tokenized_android_kotlin.app-main-49:/layout/fragment_home.xml"
+    }
+]
